@@ -1,0 +1,7 @@
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\gumalo\Desktop\ExEDverde1\Examen\Examen\obj\Debug\Examen.pdb
