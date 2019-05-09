@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Examen</name>
+    </assembly>
+    <members>
+        <member name="F:ExamenVerde.Cliente.nombre">
+            <summary>
+            Atributos de la clase Cliente
+            </summary>
+        </member>
+        <member name="M:ExamenVerde.Cliente.SumaSaldo(System.Double)">
+            <summary>
+            Método para sumar saldo. No devuelve nada
+            </summary>
+            <param name="saldonuevo"></param>
+        </member>
+        <member name="M:ExamenVerde.Cliente.PositivoNegativo">
+            <summary>
+            
+            </summary>
+            <returns>Devuelve un string con un mensaje de si el saldo es poditivo o negativo</returns>
+        </member>
+    </members>
+</doc>

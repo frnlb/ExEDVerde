@@ -43,13 +43,19 @@ namespace ExamenVerde
         }
 
 
-
+        /// <summary>
+        /// Método para sumar saldo. No devuelve nada
+        /// </summary>
+        /// <param name="saldonuevo"></param>
         public void SumaSaldo(double saldonuevo)
         {
             saldo += saldonuevo;
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns>Devuelve un string con un mensaje de si el saldo es poditivo o negativo</returns>
         public string PositivoNegativo()
         {
             string mensaje;
