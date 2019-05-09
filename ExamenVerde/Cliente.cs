@@ -6,5 +6,11 @@ namespace ExamenVerde
 {
     class Cliente
     {
+        
+        public static void SumaSaldo(double saldonuevo)
+        {
+            saldo += saldonuevo;
+        }
+        
     }
 }
