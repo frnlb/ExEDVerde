@@ -6,6 +6,7 @@ namespace ExamenVerde
 {
     class Cliente
     {
+
         /// <summary>
         /// Atributos de la clase Cliente
         /// </summary>
@@ -14,6 +15,18 @@ namespace ExamenVerde
         private double saldo = 100;
 
 
+
+
+        public Cliente(string nombre,string dni)
+        {
+            this.nombre = nombre;
+            this.dni = dni;
+            saldo = 100;
+        }
+        public Cliente()
+        {
+
+        }
 
     }
 }
