@@ -6,5 +6,9 @@ namespace ExamenVerde
 {
     class Cliente
     {
+        public void RestaSaldo(double saldoNuevo)
+        {
+            saldo -= saldoNuevo;
+        }
     }
 }
