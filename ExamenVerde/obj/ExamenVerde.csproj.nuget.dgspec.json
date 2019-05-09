@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergio-P\\Desktop\\ExamenEntornos\\ExamenVerde\\ExamenVerde.csproj": {}
+    "C:\\Users\\franl\\source\\repos\\ExamenVerde\\ExamenVerde\\ExamenVerde.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergio-P\\Desktop\\ExamenEntornos\\ExamenVerde\\ExamenVerde.csproj": {
+    "C:\\Users\\franl\\source\\repos\\ExamenVerde\\ExamenVerde\\ExamenVerde.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio-P\\Desktop\\ExamenEntornos\\ExamenVerde\\ExamenVerde.csproj",
+        "projectUniqueName": "C:\\Users\\franl\\source\\repos\\ExamenVerde\\ExamenVerde\\ExamenVerde.csproj",
         "projectName": "ExamenVerde",
-        "projectPath": "C:\\Users\\Sergio-P\\Desktop\\ExamenEntornos\\ExamenVerde\\ExamenVerde.csproj",
-        "packagesPath": "C:\\Users\\Sergio-P\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio-P\\Desktop\\ExamenEntornos\\ExamenVerde\\obj\\",
+        "projectPath": "C:\\Users\\franl\\source\\repos\\ExamenVerde\\ExamenVerde\\ExamenVerde.csproj",
+        "packagesPath": "C:\\Users\\franl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\franl\\source\\repos\\ExamenVerde\\ExamenVerde\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sergio-P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\franl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

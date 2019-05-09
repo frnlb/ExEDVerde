@@ -7,6 +7,7 @@ namespace ExamenVerde
     class Cliente
     {
 
+
         /// <summary>
         /// Atributos de la clase Cliente
         /// </summary>
@@ -26,6 +27,11 @@ namespace ExamenVerde
         public Cliente()
         {
 
+        }
+
+        public void RestaSaldo(double saldoNuevo)
+        {
+            saldo -= saldoNuevo;
         }
 
     }
