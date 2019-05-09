@@ -8,6 +8,7 @@ namespace ExamenVerde
     {
 
 
+
         /// <summary>
         /// Atributos de la clase Cliente
         /// </summary>
@@ -33,6 +34,14 @@ namespace ExamenVerde
         {
             saldo -= saldoNuevo;
         }
+
+
+        
+        public static void SumaSaldo(double saldonuevo)
+        {
+            saldo += saldonuevo;
+        }
+        
 
     }
 }
