@@ -1,5 +1,9 @@
 {
   "version": 1,
+<<<<<<< HEAD
   "dgSpecHash": "ehDdp0XoKz+ZePXAlKG7HulbvwAS8zzXNhuPMmiTc8gOmiEQ5rpnxYEZv+SHxN9NNVx3fxTdOw6fMtr5ZvEflQ==",
+=======
+  "dgSpecHash": "pxleeTVjyG1HmetyQW7FWl56OOeck9OiT0uScmkAoJawOwsPHASjyhQ5+vFSC8UAnSf5E7bctrLF4tKCBeY3mA==",
+>>>>>>> origin/Tamarit
   "success": true
 }
